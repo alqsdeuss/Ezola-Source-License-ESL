@@ -1,0 +1,126 @@
+EZOLA SOURCE LICENSE (ESL-OPEN)
+Version 1.0, 2025
+
+  Copyright (c) 2025 ESL
+
+TERMS AND CONDITIONS
+
+1. DEFINITIONS
+
+   "License" refers to this Ezola Source License (ESL-Open).
+   
+   "Software" refers to the source code, documentation, and associated files 
+   covered by this License.
+   
+   "You" or "Your" refers to an individual or legal entity exercising 
+   permissions granted by this License.
+   
+   "Use" means to copy, modify, merge, compile, execute, or otherwise 
+   utilize the Software.
+   
+   "Resell" means to sell, license for a fee, or otherwise commercially 
+   distribute the original or substantially unmodified source code as a 
+   standalone product or template.
+
+2. GRANT OF RIGHTS
+
+   Subject to the terms and conditions of this License, You are granted 
+   a worldwide, royalty-free, non-exclusive license to:
+
+   a) Use the Software for any purpose, including commercial purposes
+   b) Modify the Software and create derivative works
+   c) Distribute copies of the Software
+   d) Incorporate the Software into larger projects or applications
+   e) Use the Software in products or services You provide
+
+3. RESTRICTIONS
+
+   You may NOT:
+
+   a) Resell the Software as a standalone source code product
+   b) Package and sell the Software on code marketplaces, template sites, 
+      or similar platforms as a primary offering
+   c) Remove or modify copyright notices, license terms, or attribution 
+      information from the Software
+   d) Misrepresent the origin of the Software or claim authorship
+
+4. ATTRIBUTION
+
+   You must retain all copyright notices, this License text, and attribution 
+   information in any copies or substantial portions of the Software You 
+   distribute.
+
+5. DISTRIBUTION
+
+   When distributing the Software or derivative works:
+
+   a) You must include a copy of this License
+   b) You must retain all copyright and attribution notices
+   c) You must clearly indicate any modifications made to the original Software
+   d) Derivative works may be distributed under different terms, provided 
+      the original Software portions retain this License
+
+6. COMMERCIAL USE
+
+   You may use the Software in commercial applications, products, or services 
+   without restriction, provided You do not violate the restrictions in 
+   Section 3.
+
+   Examples of PERMITTED commercial use:
+   - Building and selling applications that use the Software
+   - Providing services that utilize the Software
+   - Including the Software as part of a larger commercial product
+
+   Examples of PROHIBITED commercial use:
+   - Selling the Software source code as a template or theme
+   - Licensing the Software source code for a fee as a standalone product
+   - Repackaging and selling the Software on code marketplaces
+
+7. NO WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS 
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+8. LIMITATION OF LIABILITY
+
+   IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY 
+   CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
+   TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
+   SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+9. TERMINATION
+
+   This License automatically terminates if You fail to comply with its 
+   terms and conditions. Upon termination, You must cease all use and 
+   distribution of the Software.
+
+10. GENERAL
+
+    a) This License represents the complete agreement concerning the 
+       subject matter hereof.
+    
+    b) If any provision of this License is held to be unenforceable, 
+       such provision shall be reformed only to the extent necessary 
+       to make it enforceable.
+    
+    c) This License shall be governed by and construed in accordance 
+       with applicable law.
+
+END OF TERMS AND CONDITIONS
+
+---
+
+HOW TO APPLY THIS LICENSE TO YOUR WORK
+
+To apply the Ezola Source License to your work, attach the following 
+notice to your source files:
+
+    Copyright (c) [year] [your name]
+    
+    Licensed under the Ezola Source License (ESL-Open).
+    You may use and modify this code, but you may not resell it.
+    See LICENSE file for full terms.
+
+For more information, visit:
+https://github.com/alqsdeuss/Ezola-Source-License-ESL
